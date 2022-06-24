@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22b92243-362b-420f-a197-afd105e3583a": {
+      "ProjectGuid": "22b92243-362b-420f-a197-afd105e3583a",
+      "DisplayName": "GrpcService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
